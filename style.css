@@ -141,3 +141,7 @@ body {
     color: white;
     font-size: 5rem;
 }
+
+.show {
+    display: flex;
+}
