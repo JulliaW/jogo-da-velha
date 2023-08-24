@@ -3,7 +3,7 @@
 
 <div align="center">
  
- ![image](https://github.com/JulliaW/jogo-da-velha/assets/73961301/9ea39525-6756-4c92-834a-a0af2ddeb9dc)
+ ![image](https://github.com/JulliaW/jogo-da-velha/assets/73961301/c0a279ee-a0ee-4774-898f-26c797256d3d)
 
 </div>
 
@@ -29,13 +29,15 @@ O famoso jogo da velha para jogar com os amigos.
 * O fim da partida se dá em três situações:
 
 * O X Vence
-* ![image](https://github.com/JulliaW/jogo-da-velha/assets/73961301/b9cb0112-dec3-492e-8a88-7b1cce8f4fed)
+* ![image](https://github.com/JulliaW/jogo-da-velha/assets/73961301/6e7ce660-3402-4146-bf5a-b4aee9d33bac)
 
 * A O vence
-* ![image](https://github.com/JulliaW/jogo-da-velha/assets/73961301/656780ef-7b1f-4c4d-8a12-2cef1be1bfbc)
+* ![image](https://github.com/JulliaW/jogo-da-velha/assets/73961301/ccc15849-d973-46d8-9844-4bb69a82d01e)
+
 
 * Ou acontece o empate, o famoso 'velha'
-* ![image](https://github.com/JulliaW/jogo-da-velha/assets/73961301/1571ffec-d7d8-4808-ad08-14330fff8e1d)
+* ![image](https://github.com/JulliaW/jogo-da-velha/assets/73961301/7fa52737-8b0e-40f0-9eca-11eec39ffce9)
+
 
 * E depois de cada um desses resultados, é possivel reiniciar a partida e jogar quantas vezes quiserem.
   
