@@ -1,62 +1,50 @@
-# Jump 🦘
+# Jogo da Velha 👵
 <h4 align="center">✨ Projeto desenvolvido com a finalidade de estudar e treinar CSS e JS</h4>
 
 <div align="center">
  
- [foto]
- 
+ ![image](https://github.com/JulliaW/jogo-da-velha/assets/73961301/9ea39525-6756-4c92-834a-a0af2ddeb9dc)
+
 </div>
 
 <p align="center">
- <a href="https://julliaw.github.io/jump/">Jogue aqui</a> •
  <a href="#objetivos">Descrição</a> •
  <a href="#jogar">Como jogar</a> • 
  <a href="#status">Status</a> • 
  <a href="#tec">Tecnologias</a> • 
- <a href="#futuro">Futuro</a> 
 </p>
 
 <h2 id="objetivos">📜 Descrição</h2>
 
-O famoso jogo do dinossauro do Google agora na versão Mario🍄 e você nem precisa desligar sua internet para jogar.
+O famoso jogo da velha para jogar com os amigos.
 
 <h2 id="jogar">🕹️ Como jogar</h2>
 
-* Para desviar dos obstáculos, pule usando qualquer tecla do seu teclado (ou utilize o click do mouse).
+* O jogador que escolheu o X inicia o jogo e escolhe onde deseja posicionar ele.
 
-* Caso bata em um deles, você verá a tela de game-over ☹️.
+* Em seguida, o segundo jogador escolhe onde posicionar a O.
 
-* Não fique triste! Aperte o botão ou pressione qualquer tecla do teclado para voltar a jogar.
+* Segue assim consecultivamente até finalizar a rodada.
 
-* Acompanhe a sua pontuação aqui:  
-* ![image](https://user-images.githubusercontent.com/73961301/219429024-a4814fa2-1780-4ade-a453-d40bebc1214d.png)
+* O fim da partida se dá em três situações:
 
-* E o mais importante de tudo, divirta-se!
+* O X Vence
+* ![image](https://github.com/JulliaW/jogo-da-velha/assets/73961301/b9cb0112-dec3-492e-8a88-7b1cce8f4fed)
 
+* A O vence
+* ![image](https://github.com/JulliaW/jogo-da-velha/assets/73961301/656780ef-7b1f-4c4d-8a12-2cef1be1bfbc)
+
+* Ou acontece o empate, o famoso 'velha'
+* ![image](https://github.com/JulliaW/jogo-da-velha/assets/73961301/1571ffec-d7d8-4808-ad08-14330fff8e1d)
+
+* E depois de cada um desses resultados, é possivel reiniciar a partida e jogar quantas vezes quiserem.
+  
 <h2 id="status">⌛ Status do projeto</h2>
 
-:construction: Projeto em construção :construction:
-
-1.0 - Concluido ✅   
- 
-1.1 - Em andamento ⌛
-
-2.0 - Não iniciado 🛑
+:white_check_mark: Projeto concluído :white_check_mark:
 
 <h2 id="tec">💻 Tecnologias</h2>
 
 ``HTML``
 ``CSS``
 ``JS``
-
-<h2 id="futuro">🔮 O que vem por ai…</h2>
-
-Você deve estar se perguntando o que são as versões 1.1 e 2.0, então vamos falar um pouco delas…
-
-**1.1**
-- Atualmente o jogo tem apenas uma velocidade. 
-- Nessa versão a ideia é que a velocidade aumente conforme o tempo de jogo e/ou pela pontuação.
-
-**2.0**
-- Muita gente gosta do Mario, mas ele não é o personagem preferido de todo mundo…
-- Nessa versão, a ideia é ter uma lista de opções que o jogador poderá escolher qual personagem ele vai querer jogar!
